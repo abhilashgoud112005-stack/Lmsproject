@@ -38,6 +38,7 @@ It focuses on:
 - 🔐 Authentication with JWT / secure sessions  
 - 🌗 Responsive UI optimized for all devices  
 
+live review : https://codewarriors6.netlify.app/
 ---
 
 ## 🏗️ Architecture
